@@ -1,2 +1,2 @@
 # Unit-Testing
-Learning java script unit testing using jest 
+Learning javascript unit testing using jest 
